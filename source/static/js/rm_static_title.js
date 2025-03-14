@@ -1,0 +1,1 @@
+document.getElementById('__static_title').remove()
